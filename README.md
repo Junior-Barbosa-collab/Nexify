@@ -1,4 +1,4 @@
-# Quickify
+# Nextfy
 
 Quickify é um aplicativo inovador de quick commerce focado em tecnologia. Permite ao usuário comprar produtos tecnológicos em lojas próximas, com entrega rápida e segura — como um "iFood da tecnologia". Oferece também montagem personalizada de produtos, integração com marketplaces e serviços premium para entregadores e lojistas.
 
